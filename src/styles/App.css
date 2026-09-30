@@ -1,0 +1,25 @@
+.site-navbar {
+  background-color: #e2c28e;
+}
+
+.custom-search {
+  color: white;
+  background-color: #6b4423;
+}
+
+.search-input {
+  width: 400px;
+  color: #6b4423;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+button {
+  cursor: pointer;
+}
